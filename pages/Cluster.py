@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  6 23:27:42 2024
 
-@author: difa
+@author: daffa
 """
 from dash import register_page,dash_table,dcc, html, callback
 import pandas as pd 
