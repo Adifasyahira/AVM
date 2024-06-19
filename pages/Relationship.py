@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  6 23:22:36 2024
 
-@author: daffa
+@author: difa
 """
 from dash import html, register_page, dcc, callback
 import pandas as pd
@@ -17,7 +17,7 @@ register_page(
 )
 
 ####################### DATASET #############################
-df = pd.read_excel("New Model 3_Clusters ver 2.xlsx")
+df = pd.read_excel("New Model 6_Clusters.xlsx")
 
 ####################### SCATTER CHART #############################
 def create_scatter_chart(x_axis="Peruntukan", y_axis="LT (m2)", color_axis="Clusters"):
