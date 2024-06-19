@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  4 12:53:52 2024
 
-@author: daffa
+@author: difa
 """
 
 # -*- coding: utf-8 -*-
